@@ -3,7 +3,7 @@ class SubscribersController < ApplicationController
   before_action :set_product
 
   def create
-    @product.subscirbers.create(subscriber_params)
+    @product.subscribers.create(subscriber_params)
     redirect_to @product, notice: "You are now subscribed"
   end
 
