@@ -29,3 +29,31 @@
 
 en:
   hello: "Hello world"
+  products:
+    index:
+      title: "Products"
+es:
+  hello: "Hola mundo"
+  products:
+    index:
+      title: "Productos"
+it:
+  hello: "Ciao mondo"
+  products:
+    index:
+      title: "Prodotti"
+fr:
+  hello: "Bonjour le monde"
+  products:
+    index:
+      title: "Produits"
+kr:
+  hello: "안녕 세상아"
+  products:
+    index:
+      title: "상품"
+jp:
+  hello: "こんにちは世界"
+  products:
+    index:
+      title: "商品"
